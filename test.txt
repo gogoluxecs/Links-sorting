@@ -1,0 +1,6 @@
+http://hit.bg/news1
+http://dir.bg/news2
+http://dir.bg/news3
+http://hit.bg/news2
+http://hit.bg/news3
+
